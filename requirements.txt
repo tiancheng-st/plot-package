@@ -1,0 +1,9 @@
+requests
+numpy
+pandas
+matplotlib
+scipy
+
+# Set proxy server
+--global-option="build_ext"
+--global-option="--proxy=http://165.225.34.32:80"
